@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ros2_vision_system"
+  site-url: "https://Ramon-PR.github.io/ros2_vision_system"
+  description: "Integration of a vision system with ros2 nodes"
+  repo-branch: main
+  repo-url: "https://github.com/Ramon-PR/ros2_vision_system"
